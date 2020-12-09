@@ -5,3 +5,6 @@ Enlace al correo [Email](mailto:juancarlos.lucenamonje@alum.uca.es)
 - [x] ABD
 - [x] ISI
 - [x] TIN
+
+## Cambios
+**Cambios desde rama #1-ipdate-readme**
